@@ -5,7 +5,7 @@ Yes, it's worse than _Sharknado_ - the Quaternion Calculator is back for another
 And, just in case you're new to my Github, this demo functions as a regular calculator with the exception that operations (+, -, *, /) are preformed on [Quaternions](https://en.wikipedia.org/wiki/Quaternion).  What do you expect from a math geek :)
 
  
-Author:  Jim Armstrong - [The Algorithmist](http://www.algorithmist.net)
+Author:  Jim Armstrong - [The Algorithmist](https://www.linkedin.com/in/jimarmstrong)
 
 @algorithmist
 
